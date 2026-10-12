@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Themed-icon silhouette (Android 13+): Money bundle -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group android:pivotX="54" android:pivotY="54" android:scaleX="0.92" android:scaleY="0.92">
+        <path
+            android:fillColor="#FF000000"
+            android:pathData="M24,40 L84,40 C86.2,40 88,41.8 88,44 L88,68 C88,70.2 86.2,72 84,72 L24,72 C21.8,72 20,70.2 20,68 L20,44 C20,41.8 21.8,40 24,40 Z" />
+        <path
+            android:fillColor="#FF000000"
+            android:pathData="M49,37 L59,37 L59,75 L49,75 Z" />
+    </group>
+</vector>
